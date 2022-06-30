@@ -10,7 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyFood">
         <activity
+            android:name=".CadastrarRefeicao"
+            android:exported="false" />
+        <activity
+            android:name=".TelaEscolhaCardapio"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".TelaInicial"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

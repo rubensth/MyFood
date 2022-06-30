@@ -5,7 +5,11 @@
       <map>
         <entry key="..\:/Universidade_do_codigo_YT/MyFood/app/src/main/res/drawable/shape_app_cardapio.xml" value="0.3675" />
         <entry key="..\:/Universidade_do_codigo_YT/MyFood/app/src/main/res/drawable/shape_recycler.xml" value="0.264" />
+        <entry key="..\:/Universidade_do_codigo_YT/MyFood/app/src/main/res/layout/activity_cadastrar_refeicao.xml" value="0.36666666666666664" />
         <entry key="..\:/Universidade_do_codigo_YT/MyFood/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Universidade_do_codigo_YT/MyFood/app/src/main/res/layout/activity_tela_cadastro_usuario.xml" value="0.35260416666666666" />
+        <entry key="..\:/Universidade_do_codigo_YT/MyFood/app/src/main/res/layout/activity_tela_escolha_cardapio.xml" value="0.36666666666666664" />
+        <entry key="..\:/Universidade_do_codigo_YT/MyFood/app/src/main/res/layout/activity_tela_inicial.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
